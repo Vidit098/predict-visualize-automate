@@ -24,4 +24,4 @@ An end-to-end Business Intelligence project demonstrating how to predict sales u
 
 ## Contact
 Vidit Nanu — BI Analyst  
-LinkedIn: https://linkedin.com/in/viditnanu
+LinkedIn: https://www.linkedin.com/in/vidit-nanu/
