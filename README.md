@@ -22,6 +22,10 @@ An end-to-end Business Intelligence project demonstrating how to predict sales u
 - Tableau Desktop / Tableau Public
 - (Optional) Tableau Server for automation
 
+  **End Result :**
+  <img width="1317" height="712" alt="image" src="https://github.com/user-attachments/assets/9795777d-b093-4332-8d54-13ba2c81af00" />
+
+
 ## Contact
 Vidit Nanu — BI Analyst  
 LinkedIn: https://www.linkedin.com/in/vidit-nanu/
